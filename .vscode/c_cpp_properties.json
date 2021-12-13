@@ -1,0 +1,56 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/ryosuke/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ryosuke/catkin_ws/src/fcsc2020_pkgs/check_human_approaching_hashizume/include/**",
+        "/home/ryosuke/catkin_ws/src/fcsc2020_pkgs/daihen_mobile_robot/comm_client/include/**",
+        "/home/ryosuke/catkin_ws/src/fcsc2020_pkgs/daihen_mobile_robot/comm_server/include/**",
+        "/home/ryosuke/catkin_ws/src/d435i_mark2_welding/include/**",
+        "/home/ryosuke/catkin_ws/src/ddynamic_reconfigure/include/**",
+        "/home/ryosuke/catkin_ws/src/DynamixelSDK/ros/dynamixel_sdk/include/**",
+        "/home/ryosuke/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_controllers/include/**",
+        "/home/ryosuke/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_operators/include/**",
+        "/home/ryosuke/catkin_ws/src/dynamixel-workbench/dynamixel_workbench_toolbox/include/**",
+        "/home/ryosuke/catkin_ws/src/eband_local_planner/include/**",
+        "/home/ryosuke/catkin_ws/src/fcsc2020_pkgs/ezgripper_cpp_driver/include/**",
+        "/home/ryosuke/catkin_ws/src/fcsc2020_pkgs/fcsc_moveit/include/**",
+        "/home/ryosuke/catkin_ws/src/fcsc2020_pkgs/fcsc_visual_tools/include/**",
+        "/home/ryosuke/catkin_ws/src/franka_ros/franka_control/include/**",
+        "/home/ryosuke/catkin_ws/src/franka_ros/franka_example_controllers/include/**",
+        "/home/ryosuke/catkin_ws/src/franka_ros/franka_gripper/include/**",
+        "/home/ryosuke/catkin_ws/src/franka_ros/franka_hw/include/**",
+        "/home/ryosuke/catkin_ws/src/fcsc2020_pkgs/gazebo_ros_link_attacher/include/**",
+        "/home/ryosuke/catkin_ws/src/fcsc2020_pkgs/obstacle_detector/include/**",
+        "/home/ryosuke/catkin_ws/src/openslam_gmapping/include/**",
+        "/home/ryosuke/catkin_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/ryosuke/catkin_ws/src/robot_setup_tf/include/**",
+        "/home/ryosuke/catkin_ws/src/fcsc2020_pkgs/roboticsgroup_gazebo_plugins/include/**",
+        "/home/ryosuke/catkin_ws/src/wander_tf_tutorial/turtle_tf/include/**",
+        "/home/ryosuke/catkin_ws/src/fcsc2020_pkgs/universal_robot/ur_kinematics/include/**",
+        "/home/ryosuke/catkin_ws/src/fcsc2020_pkgs/ur_modern_driver/include/**",
+        "/home/ryosuke/catkin_ws/src/wander_slam/wander_bot_gazebo/include/**",
+        "/home/ryosuke/catkin_ws/src/wander_cloud/include/**",
+        "/home/ryosuke/catkin_ws/src/wander_gazebo_sdf_controll/include/**",
+        "/home/ryosuke/catkin_ws/src/wander_magikeye/include/**",
+        "/home/ryosuke/catkin_ws/src/wander_mani/include/**",
+        "/home/ryosuke/catkin_ws/src/wander_openai/include/**",
+        "/home/ryosuke/catkin_ws/src/wander_python/include/**",
+        "/home/ryosuke/catkin_ws/src/wander_tf_tutorial/wander_r2d2/include/**",
+        "/home/ryosuke/catkin_ws/src/wander_server/include/**",
+        "/home/ryosuke/catkin_ws/src/wander_topic/include/**",
+        "/home/ryosuke/catkin_ws/src/xarm_ros/xarm_api/include/**",
+        "/home/ryosuke/catkin_ws/src/xarm_ros/xarm_controller/include/**",
+        "/home/ryosuke/catkin_ws/src/xdm2_initial_pos_setter/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
